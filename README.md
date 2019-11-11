@@ -8,8 +8,8 @@ It's a project which shows how to use node.js
 （2）后端新闻管理，有新闻添加、展示、删除
 
 使用：
-（1）nodemon app.js启动服务器。
-（2）浏览器输入http://localhost:3000/news为前端新闻列表展示。http://localhost:3000/admin为后端新闻管理。
+（1）node app.js 启动服务器。
+（2）浏览器输入http://localhost:3000/news 前端新闻列表展示。http://localhost:3000/admin 后端新闻管理。
 
 技术点：
 （1）主要采用koa框架，另用koa-router,koa-views,koa-static,koa-body模块。
